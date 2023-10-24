@@ -1,4 +1,3 @@
-# Python-Periodictable-Package
 # Python's Periodictable Package
 
 ![Periodictable Logo](https://raw.githubusercontent.com/yourusername/periodictable/main/logo.png)
